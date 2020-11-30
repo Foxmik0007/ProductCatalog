@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-ProductCatalog.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-ProductCatalog.iml" group="ProductCatalog" />
       <module fileurl="file://$PROJECT_DIR$/ProductCatalog.iml" filepath="$PROJECT_DIR$/ProductCatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProductCatalog-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProductCatalog-app.iml" group="ProductCatalog/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
